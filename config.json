@@ -1,5 +1,5 @@
 {
   "status": "Active",
-  "expiryTime": 1790452800000
+  "expiryTime": 1790452800000,
+  "noticePageUrl": "https://night-ghost-proxy.vercel.app/"
 }
-
